@@ -9,9 +9,9 @@ main {
   flex-wrap: wrap;
 }
 main h3 {
-  font-size: 25px;
-
+    font-size: 25px;
 }
+
 main div {
   background-color: #ef6930;
   padding: 5px;
@@ -19,8 +19,14 @@ main div {
   margin: 10px;
   text-align: center;
   width: 30%;
-  color: white
+  color: white;
 }
+
+main div:hover {
+ background-color: #e4a488;
+}
+
+
 
 h1 {
   text-align: center;
