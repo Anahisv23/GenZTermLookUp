@@ -1,0 +1,23 @@
+{
+  "name": "Gen Zlang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anahisv23/GenZTermLookUp.git"
+  },
+  "keywords": [],
+  "author": "Anahis Valenzuela & Irais Valenzuela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anahisv23/GenZTermLookUp/issues"
+  },
+  "homepage": "https://github.com/Anahisv23/GenZTermLookUp#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

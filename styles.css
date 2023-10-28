@@ -44,3 +44,17 @@ img {
   border-radius: 25px;
   padding-bottom: 20px;
 }
+
+button {
+  border-radius: 25px;
+  background-color: green;
+  color: white;
+  padding: 10px;
+}
+button:hover {
+  background-color: rgb(107, 155, 107);
+}
+.button-flex {
+  display: flex;
+  justify-content: center;
+}
